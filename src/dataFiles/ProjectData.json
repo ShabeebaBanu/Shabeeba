@@ -3,7 +3,7 @@
         "img":"portfolio",
         "title": "Portfolio",
         "desc": "My personal portfolio web application",
-        "link": "https://www.shabeeba-banu.vercel.app",
+        "link": "https://www.shabeeba.github.io/",
         "body": [
             "My personal portfolio web application is designed with mobile responsiveness and Backend admin page with CRUD functionalities ensuring a seamless experience across all devices. It focuses on providing a user-friendly interface with intuitive navigation, allowing visitors to explore content easily. The application features a visually appealing and charming UI. I have used <b> React Js, SpringBoot and Firebase </b> for development."
         ]
