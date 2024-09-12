@@ -29,13 +29,7 @@ function Home() {
                         <span>UI Designer</span>
                     </div>
                 </Typography>
-                <Typography className='resume' style={{paddingTop: '3%', paddingBottom: '3%'}}>
-                  <a href={cv}>
-                   <Button variant="contained" style={{width: '50%', backgroundColor: "#B79499", fontWeight:'bold'}}>
-                      Resume
-                   </Button>
-                  </a>
-                </Typography>
+                
                 <Typography className='sm'>
                     <Button onClick={() => window.open('https://www.linkedin.com/in/shabeeba-banu-9a3366213/')}>
                          <LinkedInIcon className='icon'/>
